@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlatformController : MonoBehaviour
 {
 
-    public static float moveSpeed = 5f;
+    public static float moveSpeed = 2f;
 
     // Start is called before the first frame update
     void Start()
